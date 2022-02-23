@@ -1,0 +1,79 @@
+body{
+    background-image: url(img/back.jfif);
+}
+.Main{
+    height: 1500px;
+    width: 100%;
+}
+.HeadFirst{
+    background-color: lightcoral;
+    height: 300px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.media-body{
+    margin-top: -16%;
+    margin-left: 25%
+}
+.media-left{
+    margin-left: 5%;
+}
+
+img{
+    height: 70%;
+    width: 9%;
+    margin-left: 10%;
+}
+.Hobbies{
+    height: 300px;
+    width: 100%;
+    position: relative;
+    background-color: lightseagreen;
+}
+.Hobbies> img{
+    margin-left: 0%;
+
+}
+.HeadSecond{
+    height: 200px;
+    width: 70%;
+    margin-left: 27%;
+}
+.skill{
+    height: 350px;
+    background-color: white;
+}
+.cont{
+    height: 250px;
+    width: 50%;
+    margin-left: 30%;
+    float: left;
+    position: absolute;
+    margin-top: 2%;
+}
+.progress{
+    height: 20%;
+}
+.lang{
+    height: 250px;
+    width: 15%;
+    float: left;
+    margin-top: 2%;
+    margin-left: 15%;
+    font-size: 23px;
+    text-align: center;
+}
+.pro{
+    height: 490px;
+    background-color: lightgreen;
+}
+.card1{
+    margin-left: 20%;
+    margin-top: 3%;
+}
+.card2{
+    margin-left: 55%;
+    margin-top: -29%;
+}
